@@ -1,0 +1,11 @@
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\bin\Debug\HTMLDocument.exe.config
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\bin\Debug\HTMLDocument.exe
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\bin\Debug\HTMLDocument.pdb
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.AssemblyReference.cache
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.SuggestedBindingRedirects.cache
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.Form1.resources
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.Properties.Resources.resources
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.GenerateResource.cache
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.CoreCompileInputs.cache
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.exe
+H:\UDEMY\C#\Фленов Михаил\9785977568272\Source\Chapter17\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.pdb
